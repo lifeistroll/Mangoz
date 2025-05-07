@@ -1,4 +1,4 @@
-package main.java.com.mangoz;
+package com.mangoz;
 
 public class Main {
 
