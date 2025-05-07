@@ -14,8 +14,6 @@ dependencies {
     implementation 'org.openjfx:javafx-controls:21'
 }
 
-
-
 application {
     mainClass = 'com.mangoz.Main'
 }
